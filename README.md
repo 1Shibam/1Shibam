@@ -1,4 +1,4 @@
-[![MasterHead](![myBanner](https://github.com/user-attachments/assets/e0166075-2162-4ce5-b16d-bf8ec01f9c45))
+![myBanner](https://github.com/user-attachments/assets/d026ce30-edad-48da-9dd8-33ab862c34bd)
 <h1 align="center">Hi 👋, I'm Shivam</h1>
 <h3 align="center">A passionate App developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/51eg5NNe8mX9g5nsUPSvojatQuBe85deckmpEclGwnU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTQuZ2lwaHkuY29t/L21lZGlhLzExa0V1/SFNRQVhYaUdRLzIw/MC5naWY_Y2lkPTc5/MGI3NjExOHpoc2V5/MzN5d3J3Zml1YzZ6/N294azZveXA3dzMx/bTBycmR6c2t2OCZl/cD12MV9naWZzX3Nl/YXJjaCZyaWQ9MjAw/LmdpZiZjdD1n.gif">
