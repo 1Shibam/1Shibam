@@ -1,4 +1,4 @@
-![myBanner](https://github.com/user-attachments/assets/d026ce30-edad-48da-9dd8-33ab862c34bd)
+![banner](https://github.com/user-attachments/assets/860b529f-d176-4dfa-947a-3b508d45bbc5)
 <h1 align="center">Hi 👋, I'm Shivam</h1>
 <h3 align="center">A passionate App developer from India</h3>
 
