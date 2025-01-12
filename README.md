@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1shibam&label=Profile%20views&color=0e75b6&style=flat" alt="1shibam" /> </p>
 
-- 🌱 I’m currently learning **Flutter, App Development**
+- 🌱 I’m currently learning(suffering) **Flutter, App Development**
 
 - 📫 How to reach me **shivamq21q@gmail.com**
 
-- ⚡ Fun fact **Nothing**
+- ⚡ Fun fact **404 not found**
 
 ---
 
